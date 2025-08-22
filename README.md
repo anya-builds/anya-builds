@@ -1,17 +1,18 @@
 <!-- Hello Banner -->
-<img width="100%" src="https://camo.githubusercontent.com/e09012c164942eb846524af8cbea063e07297c1d0f9c5846dd3f2da99ef08f60/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d443942454431266865696768743d3132302673656374696f6e3d686561646572" 
-     alt="Hello Banner" style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);"/>
+<img width="100%" style="width:100vw; max-height:300px; object-fit:cover; border-radius:12px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);" 
+src="https://camo.githubusercontent.com/e09012c164942eb846524af8cbea063e07297c1d0f9c5846dd3f2da99ef08f60/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d443942454431266865696768743d3132302673656374696f6e3d686561646572" 
+alt="Hello Banner"/>
 
 <!-- MasterHead GIF Overlay -->
-<div style="position: relative; margin-top: -100px;">
+<div style="position: relative; margin-top: -150px;">
     <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" 
-         alt="MasterHead GIF" style="width: 100%; border-radius: 12px; box-shadow: 0 8px 25px rgba(0,0,0,0.4);"/>
+         alt="MasterHead GIF" style="width:100vw; max-height:300px; object-fit:cover; border-radius:12px; box-shadow: 0 8px 25px rgba(0,0,0,0.4);"/>
 </div>
 
 <!-- Animated Typing Intro -->
 <div align="center" style="margin-top: 20px;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=F2A5D6&center=true&width=435&lines=Hello%2C+I'm+Ankita+Arya;+Full-Stack+Developer+%7C+Web+Enthusiast" alt="Typing Intro SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=F2A5D6&center=true&width=500&lines=Hello%2C+I'm+Ankita+Arya;+Full-Stack+Developer+%7C+Web+Enthusiast" alt="Typing Intro SVG" />
   </a>
 </div>
 
@@ -43,7 +44,7 @@ I'm a **B.Tech Computer Science student** passionate about **full-stack developm
   display: flex;
   overflow-x: auto;
   padding: 10px 0;
-  gap: 15px;
+  gap: 10px;
   scroll-behavior: smooth;
 }
 .tech-scroll::-webkit-scrollbar {
@@ -54,12 +55,13 @@ I'm a **B.Tech Computer Science student** passionate about **full-stack developm
   border-radius: 10px;
 }
 .tech-icon {
-  height: 50px;
+  height: 35px;
+  width: auto;
   transition: transform 0.3s ease, filter 0.3s ease;
 }
 .tech-icon:hover {
-  transform: scale(1.3);
-  filter: drop-shadow(0 0 15px #FF69B4);
+  transform: scale(1.2);
+  filter: drop-shadow(0 0 10px #FF69B4);
 }
 </style>
 
@@ -77,7 +79,7 @@ I'm a **B.Tech Computer Science student** passionate about **full-stack developm
   <a href="https://www.linkedin.com/in/ankita-prasad-arya/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="30" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/ankitaarya1207" target="_blank">
+  <a href="[https://github.com/ankitaarya1207](https://github.com/anya-builds)" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="30" alt="GitHub"/>
   </a>
   <a href="https://leetcode.com/ankitaarya1207/" target="_blank">
@@ -95,6 +97,6 @@ I'm a **B.Tech Computer Science student** passionate about **full-stack developm
 
 ### GitHub Stats
 <p align="left">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ankitaarya1207&show_icons=true&theme=radical" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitaarya1207&layout=compact&theme=radical" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=ankitaarya1207&show_icons=true&theme=radical" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitaarya1207&layout=compact&theme=radical" />
 </p>
