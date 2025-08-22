@@ -3,7 +3,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=F2A5D6&center=true&width=435&lines=Hello%2C+I'm+Arpita;AI%2FML+Enthusiast+%7C+Developer" alt="AI/ML Enthusiast SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=F2A5D6&center=true&width=435&lines=Hello%2C+I'm+Ankita Arya;AI%2FML+Enthusiast+%7C+Developer" alt="AI/ML Enthusiast SVG" />
 </a>
 
 </a>
@@ -12,9 +12,6 @@
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
 -->
 
-<div>
-    <img src="./assets/about_arpita.gif" alt="About Me Terminal GIF"/>
-</div>
 
 <!--
      My mission, because I'm a superhero!
