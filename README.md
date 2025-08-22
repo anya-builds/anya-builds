@@ -1,82 +1,98 @@
+<!-- Hello Banner -->
+<img width="100%" src="https://camo.githubusercontent.com/e09012c164942eb846524af8cbea063e07297c1d0f9c5846dd3f2da99ef08f60/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d443942454431266865696768743d3132302673656374696f6e3d686561646572" 
+     alt="Hello Banner" style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);"/>
 
+<!-- MasterHead GIF Overlay -->
+<div style="position: relative; margin-top: -100px;">
+    <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" 
+         alt="MasterHead GIF" style="width: 100%; border-radius: 12px; box-shadow: 0 8px 25px rgba(0,0,0,0.4);"/>
+</div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=F2A5D6&center=true&width=435&lines=Hello%2C+I'm+Ankita Arya;AI%2FML+Enthusiast+%7C+Developer" alt="AI/ML Enthusiast SVG" />
-</a>
-
-</a>
-
-<!--
-    Your own Terminal GIF can be created here -> https://www.terminalgif.com
--->
-
-
-<!--
-     My mission, because I'm a superhero!
--->
-
-### My mission
-I'm driven by curiosity and a passion for building! With a background in Computer Science (Data Science), I love turning ideas into real products. I enjoy connecting with people, solving real-world problems, and creating tech that makes life easier and better.
-
-<!--
-     This is the list of my skills and tools I am studying!
--->
-
-### Main skills
-[![My Skills](https://skillicons.dev/icons?i=python,aws,kotlin,dart,flutter,java,c,html,latex,mysql,sqlite,mongodb,firebase,aws,gcp,linux,git,github,postman,anaconda,fastapi,eclipse,androidstudio,vercel,notion,ai)](https://skillicons.dev)
-
-
-### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,pytorch)](https://skillicons.dev)
-
-<!--
-     I also have my own blog with useful information, check it out ^^
--->
-
-### Publications
-<div>
-  <a href="https://medium.com/@guptaarpita1105" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>
-  <a href="https://hashnode.com/@Thisisarpita" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode">
+<!-- Animated Typing Intro -->
+<div align="center" style="margin-top: 20px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=F2A5D6&center=true&width=435&lines=Hello%2C+I'm+Ankita+Arya;+Full-Stack+Developer+%7C+Web+Enthusiast" alt="Typing Intro SVG" />
   </a>
 </div>
 
-You can find my publications on Medium and Hashnode, where I share career tips, tech insights, and hands-on experiences from my journey in development. I also explore personal reflections and write about emerging topics like AI, development, and other cutting-edge innovations.
+---
 
+### About Me
+I'm a **B.Tech Computer Science student** passionate about **full-stack development**, **real-time applications**, and **interactive web experiences**. I enjoy turning ideas into products that solve real-world problems.
 
-<!--
-     Fast links to my socials!
--->
+---
 
-### Connect with me!
+### Languages and Tools
+<div class="tech-scroll">
+  <img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"/>
+  <img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"/>
+  <img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/>
+  <img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"/>
+  <img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"/>
+  <img class="tech-icon" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs"/>
+  <img class="tech-icon" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"/>
+  <img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"/>
+  <img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express"/>
+  <img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"/>
+  <img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"/>
+  <img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"/>
+</div>
+
+<style>
+.tech-scroll {
+  display: flex;
+  overflow-x: auto;
+  padding: 10px 0;
+  gap: 10px;
+  scroll-behavior: smooth;
+}
+.tech-scroll::-webkit-scrollbar {
+  height: 5px;
+}
+.tech-scroll::-webkit-scrollbar-thumb {
+  background-color: #FF69B4;
+  border-radius: 10px;
+}
+.tech-icon {
+  height: 28px;
+  width: auto;
+  transition: transform 0.3s ease, filter 0.3s ease;
+}
+.tech-icon:hover {
+  transform: scale(1.2);
+  filter: drop-shadow(0 0 10px #FF69B4);
+}
+</style>
+
+---
+
+### Projects Highlights
+- **Reflct – Digital Journal Application:** Secure journaling platform with Next.js, Tailwind CSS, Clerk & NeonDB.  
+- **ChatApp – Real-Time Chat Platform:** Real-time messaging using Next.js, Node.js, Socket.io & MongoDB.  
+- **SensAI – Career Assistant:** Auto-generates ATS-optimized resumes & personalized cover letters using Next.js, Tailwind CSS & Prisma.  
+
+---
+
+### Connect with Me!
 <p align="left">
-  <a href="https://www.linkedin.com/in/arpita-gupta-17171a254/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="30" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/ankita-arya-666102228/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="25" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/GuptaArpita_dev" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx--v1.png" width="30" alt="X"/>
+  <a href="https://github.com/anya-builds" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="25" alt="GitHub"/>
   </a>
-  <a href="https://www.instagram.com/_arpita_.11/" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="30" alt="Instagram"/>
+  <a href="https://www.instagram.com/ankita_arya._/" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="25" alt="Instagram"/>
+  </a>
+  <a href="https://x.com/ankitaarya1207" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx--v1.png" width="25" alt="X"/>
   </a>
 </p>
 
+---
 
-
-<!--
-     Oh, hello there, recruiters!
--->
-
-### Employer?
-> [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/10RzcW_b8iU9nBB2BHSMFf4DcoaNykR5L/view?usp=sharing" download>Download my resume</a>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
-
-<!--
-     Thanks for being my guest <3
--->
+### GitHub Stats
+<p align="left">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=anya-builds&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=anya-builds&theme=tokyonight" />
+</p>
