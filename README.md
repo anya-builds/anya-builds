@@ -1,14 +1,13 @@
-<!-- Hello Banner -->
-<img src="https://camo.githubusercontent.com/e09012c164942eb846524af8cbea063e07297c1d0f9c5846dd3f2da99ef08f60/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d443942454431266865696768743d3132302673656374696f6e3d686561646572" 
-width="100%" alt="Hello Banner"/>
-
+<!-- MasterHead GIF at top -->
 <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" 
 width="100%" alt="MasterHead GIF"/>
 
-<!-- Typing Intro -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=F2A5D6&center=true&width=500&lines=Hello%2C+I'm+Ankita+Arya;+Full-Stack+Developer+%7C+Web+Enthusiast" alt="Typing Intro SVG"/>
-</a>
+<!-- Typing Intro centered -->
+<div align="center" style="margin-top: 20px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=F2A5D6&center=true&width=500&lines=Hello%2C+I'm+Ankita+Arya;+Full-Stack+Developer+%7C+Web+Enthusiast" alt="Typing Intro SVG"/>
+  </a>
+</div>
 
 ---
 
@@ -47,11 +46,8 @@ I'm a **B.Tech Computer Science student** passionate about **full-stack developm
 <p>
   <a href="https://www.linkedin.com/in/ankita-arya-666102228/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" width="25"/></a>
   <a href="https://github.com/anya-builds" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="25"/></a>
-  <a href="https://leetcode.com/ankitaarya1207/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/leetcode.png" width="25"/></a>
   <a href="https://www.instagram.com/ankita_arya._/" target="_blank"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="25"/></a>
-  <a href="https://x.com/ankitaarya1207" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/twitterx--v1.png" width="25"/></a>
-</p>
-
+ 
 ---
 
 ### GitHub Stats
