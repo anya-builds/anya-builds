@@ -81,6 +81,9 @@ I'm a **B.Tech Computer Science student** passionate about **full-stack developm
   <a href="https://github.com/anya-builds" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="25" alt="GitHub"/>
   </a>
+  <a href="https://leetcode.com/ankitaarya1207/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/leetcode.png" width="25" alt="LeetCode"/>
+  </a>
   <a href="https://www.instagram.com/ankita_arya._/" target="_blank">
     <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="25" alt="Instagram"/>
   </a>
