@@ -33,14 +33,7 @@ I'm a **B.Tech Computer Science student** passionate about **full-stack developm
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" />
 </p>
 
----
 
-### Projects Highlights
-- **Reflct – Digital Journal Application:** Secure journaling platform with Next.js, Tailwind CSS, Clerk & NeonDB.  
-- **ChatApp – Real-Time Chat Platform:** Real-time messaging using Next.js, Node.js, Socket.io & MongoDB.  
-- **SensAI – Career Assistant:** Auto-generates ATS-optimized resumes & personalized cover letters using Next.js, Tailwind CSS & Prisma.  
-
----
 
 ### Connect with Me!
 <p>
