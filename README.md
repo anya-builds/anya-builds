@@ -1,7 +1,7 @@
 <div align="center">
   
 ### Full Stack Developer | AI & Cloud Enthusiast  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Ankita%20Parsad%20Arya&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Crafting%20Intelligent%20and%20Scalable%20Web%20Experiences&descAlignY=52&descAlign=50" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Ankita%20Arya&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Crafting%20Intelligent%20and%20Scalable%20Web%20Experiences&descAlignY=52&descAlign=50" alt="Header Banner" />
 </div>
 
 <div align="center">
