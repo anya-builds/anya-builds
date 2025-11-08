@@ -56,7 +56,7 @@
 
 ### 💻 About Me  
 
-🎓 **Final-year B.Tech (CSE - Data Science)** student at **Bhilai Institute of Technology, Durg**  
+🎓  B.Tech (CSE - Data Science) from **Bhilai Institute of Technology, Durg**  
 💡 Passionate about **Full Stack Web Development**, **AI Integration**, and **Cloud Computing**  
 🧠 Skilled in **Django, Next.js, Docker**, and scalable backend systems  
 ☁️ Learning **Kubernetes, MLOps, and distributed systems**  
