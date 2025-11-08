@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-arya-666102228/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anya-builds)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/___ankita___arya___/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/inklinggankitaa)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitaarya1207@gmail.com)
 
@@ -52,43 +51,6 @@
 
 </div>
 
----
-
-### 💻 About Me  
-
-🎓  B.Tech (CSE - Data Science) from **Bhilai Institute of Technology, Durg**  
-💡 Passionate about **Full Stack Web Development**, **AI Integration**, and **Cloud Computing**  
-🧠 Skilled in **Django, Next.js, Docker**, and scalable backend systems  
-☁️ Learning **Kubernetes, MLOps, and distributed systems**  
-💬 Ask me about **Next.js, API Integrations, and AI-driven apps**  
-✨ Always learning, building, and shipping creative tech projects  
-
----
-
-### 🚀 Featured Projects  
-
-**🧠 SensAI – AI-Powered Career Assistant**  
-Built an AI assistant using **Next.js, Prisma, Gemini AI** for resume generation, mock interviews, and career insights.  
-
-**💬 ChatApp – Real-time Chat Platform**  
-Developed a **Next.js + Socket.io** based real-time chat app with typing indicators, group chat, and MongoDB storage.  
-
-**📔 Reflct – Digital Journal App**  
-Built a secure journaling platform using **Clerk**, **Next.js**, and **NeonDB**, featuring mood analytics and date filters.  
-
-**📅 Schedule Keeper – Smart Task & Event Organizer**  
-Developed a scheduling platform with **Clerk authentication**, **real-time updates**, and **calendar visualization**.  
-
----
-
-### 🧰 Tech Toolbox  
-
-**Languages:** JavaScript, TypeScript, Java, C++  
-**Frameworks:** Next.js, Express.js, Django  
-**Databases:** MongoDB, MySQL, Neon DB  
-**Tools & Cloud:** Docker, Kubernetes (Basic), Git, Vercel, VS Code  
-
----
 
 
 
