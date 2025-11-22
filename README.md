@@ -17,9 +17,7 @@
 
 <div align="center">
 <!-- 3D Contribution Graph -->
-<a href="https://github.com/anya-builds">
-  <img src="https://github.com/anya-builds/anya-builds/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-</a>
+
 
 <!-- Snake Graph -->
 <picture>
